@@ -1,2 +1,7 @@
 .idea/
-.tests/__pycache__
+tests/__pycache__/
+tests/api/__pycache__/
+tests/api/functional/__pycache__/
+tests/api/load/__pycache__/
+tests/ui/__pycache__/
+
